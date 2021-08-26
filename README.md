@@ -23,3 +23,11 @@ In React environment, the project is already initialized. To check where we are 
 
 6.) Refresh your GitHub repo to make sure that your project got uploaded
 7.) To see our up to date changes we need to run the command "git add ."
+8.) Make your commit message with command git commit -m "Updated React Store"
+
+
+===== GIT PUSH =====
+1.) When we pasted git commands from GitHub it had a command that looked like this: 
+            git push -u origin main
+2.) "-u" is short for "--set-upstream" which just means that we are setting a reference to the branch main
+3.) This allows us to write "git push" and the whole command
